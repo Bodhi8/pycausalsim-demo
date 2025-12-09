@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.23.0
+plotly>=5.15.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+networkx>=3.0
+pycausalsim @ git+https://github.com/Bodhi8/pycausalsim.git
